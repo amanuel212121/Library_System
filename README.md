@@ -133,4 +133,8 @@ Database	MySQL	Data persistence
 GUI	Java Swing	User interface
 JDBC	MySQL Connector/J	Database connectivity
 Build	Command line	Compilation & execution
-     SIMPLE STEP FOR YOU
+    <div align="center">
+🌟 Star this repository if you found it helpful!
+Developed with ☕ Java and ❤️ for Distributed Systems
+
+</div>
